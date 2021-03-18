@@ -1,4 +1,4 @@
-# Econometrics-in-STATA
+# Econometrics in STATA
 
 This repository includes different do files (with the data used) for the study and application of different topics from the study of Econometrics.
 Among the topics you will find:
